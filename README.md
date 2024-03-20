@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bagusadrianus@gmail.com**
 
-- 📄 Know about my experiences [I have 3 projects with my small team at school, two of which, i'm as a backend developer, and the other i'm as a UI/UX Designer.]
+- 📄 Know about my experiences : I have 3 projects with my small team at school, two of which, i'm as a backend developer, and the other i'm as a UI/UX Designer.
 
 - ⚡ Fun fact **I love doing anything related to code, so I keep doing it every day.**
 
