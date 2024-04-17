@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fyxis&label=Profile%20views&color=3588bb&style=flat" alt="fyxis" /> </p>
 
-- 🌱 I’m currently learning **laravel and reactjs framework**
+- 🌱 I’m currently learning **reactjs framework**
 
 - 👨‍💻 All of my projects are available at [portfolio.fyxis.biz.id](portfolio.fyxis.biz.id)
 
