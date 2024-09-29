@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **reactjs framework**
 
-- 👨‍💻 All of my projects are available at [portfolio.fyxis.biz.id](portfolio.fyxis.biz.id)
-
 - 📫 How to reach me **bagusadrianus@gmail.com**
 
 - 📄 Know about my experiences : I have 3 projects with my small team at school, two of which, i'm as a backend developer, and the other i'm as a UI/UX Designer.
