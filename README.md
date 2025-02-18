@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fyxis&label=Profile%20views&color=3588bb&style=flat" alt="fyxis" /> </p>
 
-- 🌱 I’m currently learning **reactjs framework**
+- 🌱 I’m currently learning **nest js backend framework**
 
 - 📫 How to reach me **bagusadrianus@gmail.com**
 
