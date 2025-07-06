@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fyxis&label=Profile%20views&color=3588bb&style=flat" alt="fyxis" /> </p>
 
-- 🌱 I’m currently learning **ReactJs backend framework**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **bagusadrianus@gmail.com**
 
-- 📄 Know about my experiences : I have 3 projects with my small team at school, two of which, i'm as a backend developer, and the other i'm as a UI/UX Designer.
+- 📄 Know about my experiences : I have 3 projects with my small team at school, two of which, i'm as a backend developer, and the other, i'm as a UI/UX Designer.
 
 - ⚡ Fun fact **I love doing anything related to code, so I keep doing it every day.**
 
