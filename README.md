@@ -1,7 +1,7 @@
 # Hi there, I'm Fyxis 👋
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Fyxis/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Fyxis45" />
 </div>
 
 <h3 align="center">Full-Stack JavaScript Expert 💻</h3>
